@@ -1,6 +1,6 @@
 I am _Amandeep_, a Software Developer based in **Vancouver BC**.
-Trying to learn something new everyday and quench the thirst for knowledge.
-Currently working towards the goal of becoming a full stack Mobile developer.
+<br>Trying to learn something new everyday and quench the thirst for knowledge.
+<br>Currently working towards the goal of becoming a full stack Mobile developer.
 I work prmarily in Android app development.
 
 Connect with me 
