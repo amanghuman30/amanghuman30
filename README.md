@@ -4,5 +4,5 @@ Currently working towards the goal of becoming a full stack Mobile developer.
 I work prmarily in Android app development.
 
 Connect with me 
-<a href="https://www.linkedin.com/in/amandeep-singh-ghuman-09953067">LinkedIn</a>
-<a href="https://twitter.com/AmanGhuman30">LinkedIn</a>
+<br><a href="https://www.linkedin.com/in/amandeep-singh-ghuman-09953067">LinkedIn</a>
+<br><a href="https://twitter.com/AmanGhuman30">Twitter</a>
